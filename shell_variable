@@ -4,3 +4,5 @@ x=1
 		let x+1
 done)
 echo $x
+
+#the x will be 1,out of ()
