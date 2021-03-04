@@ -1,0 +1,6 @@
+x=1
+(for i in $(seq 1 5)
+	do
+		let x+1
+done)
+echo $x
